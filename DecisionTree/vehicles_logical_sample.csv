@@ -1,0 +1,6 @@
+Stops < 3,Left turns < 2,Speed < 20,Vehicle
+Yes,Yes,No,Local
+Yes,No,Yes,Local
+No,Yes,Yes,Local
+No,No,No,Visitor
+No,No,Yes,Visitor
